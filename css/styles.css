@@ -195,7 +195,7 @@ button {
   display: flex;
   align-items: center;
   gap: 30px;
-  padding: 80px;
+  padding: 30px 80px;
   background-color: #fff;
 }
 
@@ -206,7 +206,7 @@ button {
 }
 
 .about-content {
-  padding: 40px;
+  padding: 30px;
 }
 
 .about-content h2 {
